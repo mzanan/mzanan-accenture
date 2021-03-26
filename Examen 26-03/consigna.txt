@@ -1,0 +1,20 @@
+Se solicita crear las entidades para los servicios de Northwind:
+
+Order_Details
+Orders
+Products
+
+Crear vista para en una sola entidad contener los datos del producto junto con el detalle.
+
+Se solicita que se cree un 
+ID adicional en las ordenes para tener la 
+información de la región y 
+la fecha de la creación de la orden.
+
+Se validará que las cantidades solicitadas además de 
+no superar la cantidad en stock, 
+tenga en cuenta las cantidades en ordenes aun no procesadas.
+
+Se podrá realizar un cambio en la cantidad de un item, pero en el mismo 
+se debe evaluar que las ordenes posteriores que tengan cargado el producto en un item tengan el 
+stock suficiente. 
