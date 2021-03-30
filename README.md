@@ -1,4 +1,4 @@
 # mzanan-accenture
 Ejercicios capacitación Accenture SAP-CAP
 
-### Execute `npm i` to run the project
+### Execute `npm i` in any project
