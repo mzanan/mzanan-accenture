@@ -1,6 +1,7 @@
 # Getting Started
-
----> run `npm i` to execute the project.
+---------|
+run `npm i` to execute the project.
+---------|
 
 Welcome to your new project.
 
