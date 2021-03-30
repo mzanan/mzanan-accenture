@@ -1,5 +1,7 @@
 # Getting Started
 
+---> run `npm i` to execute the project.
+
 Welcome to your new project.
 
 It contains these folders and files, following our recommended project layout:
